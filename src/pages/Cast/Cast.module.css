@@ -1,0 +1,15 @@
+.list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.listItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  font-weight: 500;
+}
